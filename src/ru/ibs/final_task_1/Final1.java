@@ -18,6 +18,6 @@ public class Final1 {
 
         c = b / a;
 
-        System.out.printf("Результат конвертации: %.2f", c);
+        System.out.printf("Результат конвертации: %.2f долларов", c);
     }
 }
